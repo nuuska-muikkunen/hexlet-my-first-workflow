@@ -13,8 +13,7 @@ jobs:
       # checkout — клонирует репозиторий
       # - uses: actions/checkout@v3
       # run – произвольная bash-команда
-      # ls -la выведет содержимое текущего репозитория
-      - run: pwd
-      - run: ~/hexlet-my-first-worflow/make say-hello
+      - run: ls -la выведет содержимое текущего репозитория
+      - run: echo Hello, world!
 
 
