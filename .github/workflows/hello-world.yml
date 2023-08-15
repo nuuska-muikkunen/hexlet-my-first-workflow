@@ -13,7 +13,6 @@ jobs:
       # checkout — клонирует репозиторий
       # - uses: actions/checkout@v3
       # run – произвольная bash-команда
-      - run: ls -la выведет содержимое текущего репозитория
       - run: echo Hello, world!
 
 
