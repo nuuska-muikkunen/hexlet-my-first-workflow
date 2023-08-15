@@ -18,3 +18,4 @@ make say-hello
 
 [![status22](https://runnerimagesdeploymentstatus.azurewebsites.net/api/status?imageName=ubuntu22&badge=1)](https://runnerimagesdeploymentstatus.azurewebsites.net/api/status?imageName=ubuntu22&redirect=1)
 
+![Build Status](https://github.com/nuuska-muikkunen/hexlet-my-first-workflow/hello-world.yml/workflows//badge.svg?branch=master)
